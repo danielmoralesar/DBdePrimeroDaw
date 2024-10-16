@@ -15,3 +15,25 @@ Otra lista ordenada:
 3. Tercer paso
 
 ![Pedro](channels4_profile.jpg)
+
+## Más cosas
+Enlace a [la web del kernel](https://kernel.org).
+
+Código:
+
+- Esto es `INSERT INTO` en formati inline.
+- Lo siguiente es un bloque de código:
+
+```sql
+CREATE TABLE pedro (
+  pedro VARCHAR(255),
+  pe INT
+);
+```
+
+También
+
+    CREATE TABLE a (
+     a INT
+    );
+    ...
