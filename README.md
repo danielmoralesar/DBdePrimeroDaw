@@ -2,6 +2,8 @@
 Mi primer repositorio para bases de datos.
 Puedes ver [mis-notas.md](mis-notas.md)
 
+Esto está editado con **nano**
+
 ## Sección
 Una lista:
 - Hola.
