@@ -14,7 +14,7 @@ Otra lista ordenada:
    - Recordar
 3. Tercer paso
 
-![Pedro](channels4_profile.jpg)
+![Pedro](https://i.redd.it/bvn01m71yxxc1.gif)
 
 ## Más cosas
 Enlace a [la web del kernel](https://kernel.org).
