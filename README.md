@@ -1,5 +1,6 @@
 # BasesPrueba
 Mi primer repositorio para bases de datos.
+Puedes ver [mis-notas.md](mis-notas.md)
 
 ## Sección
 Una lista:
