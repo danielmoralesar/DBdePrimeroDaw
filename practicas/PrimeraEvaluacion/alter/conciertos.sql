@@ -26,5 +26,5 @@ CREATE TABLE Tickets (
     fecha DATE,
     cantidad INT NOT NULL,
     precio_total DECIMAL(10, 2) NOT NULL,
-    PRIMARY KEY (cliente_id, concierto_id),
+    PRIMARY KEY (cliente_id, concierto_id)
 );
